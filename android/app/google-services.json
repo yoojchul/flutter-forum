@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869922797872",
+    "project_id": "withpython-c29b6",
+    "storage_bucket": "withpython-c29b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869922797872:android:0b8fd99c487c8bb9ce70f5",
+        "android_client_info": {
+          "package_name": "com.jcyoo.tab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869922797872-ep2774mharqaikl7n2gllc0tnkog7kbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZjqdc0858H-2gIaSZskKWCziglyOOLNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869922797872-ep2774mharqaikl7n2gllc0tnkog7kbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
