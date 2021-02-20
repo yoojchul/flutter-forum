@@ -12,7 +12,8 @@ This demonstrates Flutter App of a social application such as a forum.  GUI is s
 - Run the sample on emulator, Android or iOS device
 
 ## Result
-<phone.png>
+![phone](https://user-images.githubusercontent.com/15276052/108579224-4ddcac00-7369-11eb-99be-b099dd660a17.PNG)
+
 
 ## Data Model
 This App requires two collections, “posts” and “comments” of firestore. 
