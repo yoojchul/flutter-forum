@@ -53,4 +53,4 @@ p1.update({'ncomments' : firestore.Increment(1)})
 [Refer to Add the Firebase Admin SDK to your server](https://firebase.google.com/docs/admin/setup#python)
 
 ## Navigator of Program
-<navi.png>
+![navi2](https://user-images.githubusercontent.com/15276052/108575890-051ff580-735f-11eb-861c-9e9e5b35cd3a.png)
